@@ -18,11 +18,11 @@ Airgead Banking Console App is a compund interest calculator which is designed t
 3. Build and Run the 'AirgeadBanking.cpp' file
 4. Input your inital amount on the prompt
 
-     ![Data-Input](https://user-images.githubusercontent.com/87956398/185754837-3dafe04e-fb4e-47fe-a29b-a1d62ca9f060.png) 
+     ![Data-Input-cropped](https://user-images.githubusercontent.com/87956398/185756454-754c1b26-48fa-409d-9524-54edceaae710.jpg) 
      
 5. This will calculate the interests and will display a table based on the input data
 
-     ![display-table](https://user-images.githubusercontent.com/87956398/185754910-11097ff1-8959-44bb-abbd-72a0547a44c7.png)
+     ![display-table-cropped](https://user-images.githubusercontent.com/87956398/185756445-05630e56-433d-4caf-8af8-86af4f1962ec.jpg)
 
 ## Personal Assessment
 Chada Tech has created this project for Airgead Banking Inc. to educate local schoolchildren about the value of investing and the cumulative power of interest. The CS-210 Programming Languages course I took at SNHU taught me a lot, and this project helped me hone my C++ and Python skills. Because of this, I developed this project exceptionally effectively. As it contains user financial data, I would improve my code by protecting the user data to a more secure object than just variables and arrays. I had trouble utilizing the clear screen command because my system was not a Windows machine. I would integrate compatibility with all OS types in upcoming releases.  ZyBooks was a useful tool for me to comprehend and identify the solutions to the problems I encountered. Emphasizing industry best practices and norms during this course will assist me in maintaining the degree of integrity in my future endeavors. Using prefixes for various variables within the class promotes maintainability and flexibility and ensures that the code may be expanded upon naturally. The numerous comments I used to describe why I did each part of the project in the way I did, making it easier for other developers and teachers to grasp the code I have written, contribute to readability. 
