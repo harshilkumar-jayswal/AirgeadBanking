@@ -23,6 +23,7 @@ Airgead Banking Console App is a compund interest calculator which is designed t
      ![Data-Input](https://user-images.githubusercontent.com/87956398/185754837-3dafe04e-fb4e-47fe-a29b-a1d62ca9f060.png) 
      
 5. This will calculate the interests and will display a table based on the input data
+
      ![display-table](https://user-images.githubusercontent.com/87956398/185754910-11097ff1-8959-44bb-abbd-72a0547a44c7.png)
 
 ## Personal Assessment
