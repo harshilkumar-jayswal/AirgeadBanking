@@ -1,7 +1,7 @@
 ![AirgeadLogo](https://user-images.githubusercontent.com/87956398/185753181-9520e134-8b54-4d86-9002-e68dffd7a176.png)
 #  **Airgead Banking Console App**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) [![Build Status](https://img.shields.io/badge/build-passed-green)] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) (https://img.shields.io/badge/build-passed-green) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Airgead Banking Console App is a compund interest calculator which is designed to teach students concepts of fiscal responsibility  (such as living within their means and spending less than they make) via an interactive system. This console app helps students understand the power of investing and compound interest. It allows them to see how their investments will grow over time. 
 
